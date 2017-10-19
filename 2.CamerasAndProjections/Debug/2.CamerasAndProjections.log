@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Shader.cpp
+c:\users\blane\documents\visual studio 2015\projects\graphicsnew\2.camerasandprojections\shader.cpp(17): error C2440: '=': cannot convert from 'Shader *' to 'Filer *'
+  c:\users\blane\documents\visual studio 2015\projects\graphicsnew\2.camerasandprojections\shader.cpp(17): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Mesh.cpp
+  CameraApp.cpp
+  Generating Code...
